@@ -1,0 +1,6 @@
+INFO    2022-09-15 14:27:52,981 [main] com.testing.base.TestBase  - OR file Loaded !!!
+INFO    2022-09-15 14:27:52,982 [main] com.testing.base.TestBase  - Config file Loaded !!!
+INFO    2022-09-15 14:27:59,285 [main] com.testing.base.TestBase  - Firefox browser launched !!!
+INFO    2022-09-15 14:28:02,690 [main] com.testing.base.TestBase  - Navigated to: https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-09-15 14:28:03,118 [main] com.testing.base.TestBase  - DB Connection established !!!
+INFO    2022-09-15 14:28:05,914 [main] com.testing.base.TestBase  - Test Execution completed !!!
